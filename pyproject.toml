@@ -137,7 +137,7 @@ dev = [
     "bandit>=1.7.0",
     "safety>=2.3.0",
     "factory-boy>=3.3.0",
-    "freezegun>=1.2.0",
+    "freezegun>=1.5.5",
     "responses>=0.23.0",
 ]
 
